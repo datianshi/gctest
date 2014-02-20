@@ -49,7 +49,7 @@ public class Server {
 //					int a = 1 + 1;
 //				}
 				try {
-					Thread.sleep(500);
+					Thread.sleep(400);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}				
